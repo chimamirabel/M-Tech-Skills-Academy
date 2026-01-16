@@ -75,3 +75,9 @@
     </a>
 </body>
 </html>
+<a href="https://wa.me/234814505757?text=Hello%20M-Tech,%20I%20saw%20your%20website%20and%20I%20would%20like%20to%20discuss%20a%20project." 
+   class="fixed bottom-6 right-6 bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform z-50 flex items-center space-x-2"
+   target="_blank">
+   <i class="fab fa-whatsapp text-2xl"></i>
+   <span class="font-bold">Chat with M-Tech</span>
+</a>
