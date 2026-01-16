@@ -1,3 +1,29 @@
+<section id="projects" class="max-w-6xl mx-auto px-6 py-20">
+        <h3 class="text-3xl font-bold mb-12 text-center">Featured Projects</h3>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="card p-4 rounded-2xl overflow-hidden">
+                <div class="h-48 bg-slate-700 rounded-xl mb-6 flex items-center justify-center">
+                    <i class="fas fa-shopping-cart text-5xl text-sky-500"></i>
+                </div>
+                <h4 class="text-xl font-bold mb-2">Enugu E-Commerce Hub</h4>
+                <p class="text-gray-400 mb-4">A custom online store built for local vendors in Enugu to sell products digitally.</p>
+                <div class="flex space-x-2 text-xs font-mono text-sky-400">
+                    <span>#React</span> <span>#Tailwind</span> <span>#Firebase</span>
+                </div>
+            </div>
+
+            <div class="card p-4 rounded-2xl overflow-hidden">
+                <div class="h-48 bg-slate-700 rounded-xl mb-6 flex items-center justify-center">
+                    <i class="fas fa-graduation-cap text-5xl text-sky-500"></i>
+                </div>
+                <h4 class="text-xl font-bold mb-2">School Management App</h4>
+                <p class="text-gray-400 mb-4">A mobile-first application for managing student records and fee payments.</p>
+                <div class="flex space-x-2 text-xs font-mono text-sky-400">
+                    <span>#ReactNative</span> <span>#Nodejs</span> <span>#MongoDB</span>
+                </div>
+            </div>
+        </div>
+    </section>
 <!DOCTYPE html>
 <html lang="en">
 <head>
